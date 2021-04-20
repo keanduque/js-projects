@@ -1,3 +1,8 @@
+/**
+ * Author : Kean Duque
+ * Project : Bank Website Tools
+ */
+
 'use strict';
 
 ///////////////////////////////////////
